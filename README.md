@@ -1,0 +1,2 @@
+From September 2022 to May 2023, I worked on an independent research project about the behavior of differently-shaped boat hulls in waves, for a class at my high school called Science Research. This repository is supposed to contain all of the files from that project, including the .ino code to run the MPU6050, the data from the various trials, and the CAD files of the hulls and other components.
+Special thanks to Mr. Futterman and Dr. Laungani for all of their help and support while I was conducting this research.
